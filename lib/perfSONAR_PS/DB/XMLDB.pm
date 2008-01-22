@@ -2,7 +2,7 @@ package perfSONAR_PS::DB::XMLDB;
 
 use fields 'ENVIRONMENT', 'CONTAINERFILE', 'NAMESPACES', 'ENV', 'MANAGER', 'CONTAINER', 'INDEX';
 
-our $VERSION = 0.05;
+our $VERSION = 0.06;
 
 use strict;
 use warnings;
